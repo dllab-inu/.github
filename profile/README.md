@@ -1,15 +1,23 @@
-# Distributional Learning Lab - Incheon National University
+# Distributional Learning Lab – Incheon National University
+
+## 👋 What is this organization?
+
+This GitHub organization hosts:
+1. Repositories related to our lab’s research and publications, and  
+2. Course materials used in our teaching.
+
+## ❓ About DLLab
+
+Our lab focuses on **distributional learning** in both **tabular** and **time-series** domains,  
+with an emphasis on developing principled models and applying them to real-world problems.
 
 ### 🔬 Research Topics
-Our lab focuses on **distributional learning** in both **tabular** and **time-series** domains:
-- **Tabular Data Synthesis**
-- **Density Estimation**
-- **Time-Series Forecasting**
-
----
+- Tabular Data Synthesis
+- Density Estimation
+- Time-Series Forecasting
 
 ### 🚀 Future Research Directions
-- **Time-Series Anomaly Detection** 
-- **Time-Series Forecasting** 
-- **Data Augmentation**
-- **Missing Data Imputation**
+- Time-Series Anomaly Detection
+- Time-Series Forecasting
+- Data Augmentation
+- Missing Data Imputation
