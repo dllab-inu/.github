@@ -11,13 +11,10 @@ This GitHub organization hosts:
 Our lab focuses on **distributional learning** in both **tabular** and **time-series** domains,  
 with an emphasis on developing principled models and applying them to real-world problems.
 
-### 🔬 Research Topics
+## 🔬 Research Topics
+- Time-Series Forecasting
+- Time-Series Anomaly Detection
 - Tabular Data Synthesis
 - Density Estimation
-- Time-Series Forecasting
-
-### 🚀 Future Research Directions
-- Time-Series Anomaly Detection
-- Time-Series Forecasting
-- Data Augmentation
 - Missing Data Imputation
+- Application of big-data analysis, statistical, and machine learning methodologies
